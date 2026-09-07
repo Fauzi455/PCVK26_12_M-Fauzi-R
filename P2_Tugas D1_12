@@ -36,11 +36,11 @@
         "drive.mount('/content/drive')"
       ],
       "metadata": {
-        "id": "lQyZ8OFTwgyg",
-        "outputId": "453251d3-8bf6-4042-90fa-f0fc53a72105",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "lQyZ8OFTwgyg",
+        "outputId": "453251d3-8bf6-4042-90fa-f0fc53a72105"
       },
       "execution_count": 2,
       "outputs": [
@@ -62,12 +62,12 @@
         "uploaded = files.upload()"
       ],
       "metadata": {
-        "id": "5KZJSZ1NxAH4",
-        "outputId": "502c41a0-254b-4150-c714-d309b9a8c3dc",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 71
-        }
+        },
+        "id": "5KZJSZ1NxAH4",
+        "outputId": "502c41a0-254b-4150-c714-d309b9a8c3dc"
       },
       "execution_count": 3,
       "outputs": [
@@ -289,12 +289,12 @@
         "print(\"Resolusi gambar: \", img.shape[1], \" x \", img.shape[0])"
       ],
       "metadata": {
-        "id": "Gf3HRtUyxJCb",
-        "outputId": "e658363a-e02d-4d2e-fca9-b4774c6ab19f",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 382
-        }
+        },
+        "id": "Gf3HRtUyxJCb",
+        "outputId": "e658363a-e02d-4d2e-fca9-b4774c6ab19f"
       },
       "execution_count": 4,
       "outputs": [
@@ -334,12 +334,12 @@
         "plt.imshow(img)"
       ],
       "metadata": {
-        "id": "Zq2oMIgTxylf",
-        "outputId": "4790c8be-fd8b-4662-d8dc-9f50ff0b7363",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 361
-        }
+        },
+        "id": "Zq2oMIgTxylf",
+        "outputId": "4790c8be-fd8b-4662-d8dc-9f50ff0b7363"
       },
       "execution_count": 10,
       "outputs": [
@@ -373,12 +373,12 @@
         "plt.imshow(img2)"
       ],
       "metadata": {
-        "id": "IkL1LYNByDMy",
-        "outputId": "7fc55d34-a51c-4167-9a69-8a59555dcf9b",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 361
-        }
+        },
+        "id": "IkL1LYNByDMy",
+        "outputId": "7fc55d34-a51c-4167-9a69-8a59555dcf9b"
       },
       "execution_count": 11,
       "outputs": [
@@ -431,12 +431,12 @@
         "plt.show()"
       ],
       "metadata": {
-        "id": "YE3ye3tmzkP-",
-        "outputId": "2328cf3d-fbdf-4ade-8ce9-421f1e5a1068",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 209
-        }
+        },
+        "id": "YE3ye3tmzkP-",
+        "outputId": "2328cf3d-fbdf-4ade-8ce9-421f1e5a1068"
       },
       "execution_count": 12,
       "outputs": [
@@ -458,12 +458,12 @@
         "plt.imshow(img_gray, cmap='magma')"
       ],
       "metadata": {
-        "id": "bjEOsSQa0AWK",
-        "outputId": "1c8fd7d8-50e0-4b84-dac2-a1a11f6b0c06",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 361
-        }
+        },
+        "id": "bjEOsSQa0AWK",
+        "outputId": "1c8fd7d8-50e0-4b84-dac2-a1a11f6b0c06"
       },
       "execution_count": 13,
       "outputs": [
@@ -506,12 +506,12 @@
         "plt.imshow(img_output)"
       ],
       "metadata": {
-        "id": "L9a2uIht0J_y",
-        "outputId": "fd386b67-86cf-41cc-c71d-4b73a3faf390",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 409
-        }
+        },
+        "id": "L9a2uIht0J_y",
+        "outputId": "fd386b67-86cf-41cc-c71d-4b73a3faf390"
       },
       "execution_count": 14,
       "outputs": [
@@ -553,12 +553,12 @@
         "plt.imshow(imgFlip)"
       ],
       "metadata": {
-        "id": "pbXzeE5I0nZV",
-        "outputId": "ded0a5dd-660a-4c29-fd97-4f6eb7db5063",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 409
-        }
+        },
+        "id": "pbXzeE5I0nZV",
+        "outputId": "ded0a5dd-660a-4c29-fd97-4f6eb7db5063"
       },
       "execution_count": 15,
       "outputs": [
@@ -595,12 +595,12 @@
         "ax.imshow(imgFlip)"
       ],
       "metadata": {
-        "id": "KxIgckpA018g",
-        "outputId": "800976ba-2186-4e98-8ae5-2ba856121292",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 593
-        }
+        },
+        "id": "KxIgckpA018g",
+        "outputId": "800976ba-2186-4e98-8ae5-2ba856121292"
       },
       "execution_count": 16,
       "outputs": [
@@ -642,12 +642,12 @@
         "plt.imshow(black_img)"
       ],
       "metadata": {
-        "id": "e1k6JmMb1fIi",
-        "outputId": "ccdc9963-c647-441f-dd37-09f14b8bcadd",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 452
-        }
+        },
+        "id": "e1k6JmMb1fIi",
+        "outputId": "ccdc9963-c647-441f-dd37-09f14b8bcadd"
       },
       "execution_count": 18,
       "outputs": [
@@ -681,12 +681,12 @@
         "plt.imshow(black_img)"
       ],
       "metadata": {
-        "id": "BjTRGh4v1xr8",
-        "outputId": "ef515194-7bdf-4674-a6b7-913ca47d4890",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 452
-        }
+        },
+        "id": "BjTRGh4v1xr8",
+        "outputId": "ef515194-7bdf-4674-a6b7-913ca47d4890"
       },
       "execution_count": 19,
       "outputs": [
@@ -719,12 +719,12 @@
         "plt.imshow(black_img)"
       ],
       "metadata": {
-        "id": "zL7dQJqd207k",
-        "outputId": "8e3e7927-d9d9-4e00-89b5-10c0a1394e2f",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 452
-        }
+        },
+        "id": "zL7dQJqd207k",
+        "outputId": "8e3e7927-d9d9-4e00-89b5-10c0a1394e2f"
       },
       "execution_count": 20,
       "outputs": [
@@ -757,12 +757,12 @@
         "plt.imshow(black_img)"
       ],
       "metadata": {
-        "id": "0R6wO5Fo3GqO",
-        "outputId": "f3cec822-d1fa-4f18-ab74-217c476a61da",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 452
-        }
+        },
+        "id": "0R6wO5Fo3GqO",
+        "outputId": "f3cec822-d1fa-4f18-ab74-217c476a61da"
       },
       "execution_count": 21,
       "outputs": [
@@ -796,12 +796,12 @@
         "plt.imshow(black_img)"
       ],
       "metadata": {
-        "id": "UO8GWV-g3Soc",
-        "outputId": "500061fe-068e-42ba-c8c5-9a3ce6f26f57",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 452
-        }
+        },
+        "id": "UO8GWV-g3Soc",
+        "outputId": "500061fe-068e-42ba-c8c5-9a3ce6f26f57"
       },
       "execution_count": 22,
       "outputs": [
@@ -836,12 +836,12 @@
         "plt.imshow(black_img)"
       ],
       "metadata": {
-        "id": "j5vVnUci3nes",
-        "outputId": "0139dd36-4ee2-4ba7-803d-cf14a0feb136",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 452
-        }
+        },
+        "id": "j5vVnUci3nes",
+        "outputId": "0139dd36-4ee2-4ba7-803d-cf14a0feb136"
       },
       "execution_count": 23,
       "outputs": [
@@ -874,12 +874,12 @@
         "plt.imshow(black_img2)"
       ],
       "metadata": {
-        "id": "02qTpDdi4UTw",
-        "outputId": "4799df6a-b2bd-4918-dbec-29fabc5637b2",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 452
-        }
+        },
+        "id": "02qTpDdi4UTw",
+        "outputId": "4799df6a-b2bd-4918-dbec-29fabc5637b2"
       },
       "execution_count": 24,
       "outputs": [
@@ -914,12 +914,12 @@
         "plt.imshow(black_img2)"
       ],
       "metadata": {
-        "id": "Tt64ZAeK4cT0",
-        "outputId": "328c21fa-c32f-41de-e014-2796333b3a30",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 452
-        }
+        },
+        "id": "Tt64ZAeK4cT0",
+        "outputId": "328c21fa-c32f-41de-e014-2796333b3a30"
       },
       "execution_count": 27,
       "outputs": [
